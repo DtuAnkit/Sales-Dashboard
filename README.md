@@ -41,11 +41,7 @@ Sales Trends: Identifying high-growth and low-performing markets.
 **Files Included**
 
 1.sales_data.csv – Raw dataset
-
-2.cleaned_sales_data.csv – Preprocessed dataset
-
+ 2.cleaned_sales_data.csv – Preprocessed dataset
 3.dashboard.pbix – Power BI dashboard
-
 4.dashboard.twbx – Tableau workbook
-
 5.README.md – Project documentation

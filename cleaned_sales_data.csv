@@ -1,0 +1,1001 @@
+OrderDate,CustomerID,ProductCategory,SalesAmount,ProfitMargin,Region
+2024-04-12,543950fd,Books,101.65,5.07,East
+2024-04-12,171a73bf,Electronics,251.39,8.58,Central
+2024-09-11,f228d8c3,Groceries,126.09,17.01,Central
+2024-07-07,9008e169,Electronics,450.33,9.53,East
+2025-01-17,cb98e495,Home Appliances,120.3,15.61,West
+2024-10-15,d8467c2f,Electronics,135.25,23.43,East
+2024-04-13,2a38355f,Clothing,451.46,5.42,West
+2025-02-21,86df34c6,Books,320.36,16.76,Central
+2025-02-24,ea105115,Books,233.26,8.57,South
+2024-06-19,c7adb680,Groceries,262.02,23.59,South
+2024-12-16,c686e63d,Books,375.49,17.47,Central
+2024-09-06,13fecd00,Clothing,217.71,17.56,South
+2024-09-24,8c3c264f,Groceries,280.01,22.4,East
+2024-04-26,ec0f1d2b,Groceries,131.25,10.66,Central
+2025-01-24,33da284d,Clothing,64.06,26.09,South
+2024-07-27,0e7efd4f,Books,377.19,14.94,West
+2024-08-28,1fe98682,Clothing,346.55,18.11,West
+2024-05-07,04574dc9,Electronics,206.1,18.04,East
+2025-02-12,28da6dc2,Home Appliances,191.74,19.42,West
+2024-08-26,fa0f9538,Electronics,136.23,26.01,North
+2024-07-10,2bbd6ee0,Groceries,21.92,6.73,South
+2024-06-24,85123124,Books,73.69,28.12,Central
+2025-02-16,a32f1c7d,Electronics,169.29,10.0,South
+2024-08-31,81054663,Electronics,32.5,6.85,East
+2024-07-03,603b43f9,Electronics,258.42,25.13,Central
+2024-08-08,b1ee232c,Home Appliances,330.4,11.04,West
+2024-06-14,3d698e58,Home Appliances,159.74,19.85,West
+2025-01-04,538c69fa,Books,215.11,28.32,North
+2024-07-23,e5f58e6d,Electronics,357.6,13.85,Central
+2024-10-18,6e168c44,Electronics,225.26,23.86,Central
+2024-12-13,3a5770a0,Books,357.67,14.22,Central
+2024-06-23,c834e7f2,Groceries,397.44,11.57,North
+2024-09-30,45774f4b,Electronics,165.24,14.42,East
+2024-07-25,63e4ca95,Home Appliances,431.43,19.35,South
+2024-12-06,2ac103b2,Clothing,47.79,22.7,South
+2025-01-23,afa02cf7,Books,107.56,15.16,Central
+2024-11-12,6f8e4ced,Electronics,69.22,20.01,Central
+2024-07-10,41c67a25,Home Appliances,446.71,5.63,Central
+2024-12-10,d8daa191,Electronics,27.26,5.88,North
+2025-01-21,be12abab,Home Appliances,186.61,24.49,North
+2024-10-07,5c368c51,Electronics,221.3,26.81,Central
+2024-12-07,77f4b985,Clothing,12.18,24.78,Central
+2024-05-19,c2ec9cbb,Clothing,192.76,22.78,East
+2024-09-05,84897033,Electronics,414.98,26.46,North
+2024-03-21,8404edd5,Electronics,92.52,10.09,Central
+2024-08-06,32d82813,Electronics,147.93,7.15,South
+2024-10-01,fe932940,Home Appliances,448.38,22.52,West
+2024-11-09,124e4bcb,Clothing,211.76,11.53,West
+2024-05-18,80faf4c4,Groceries,167.39,7.95,West
+2024-05-09,afd28699,Electronics,82.2,9.42,Central
+2024-09-06,5973cff7,Home Appliances,190.92,25.04,South
+2025-02-08,0baa8408,Groceries,21.35,16.32,West
+2024-06-01,cdb3a191,Clothing,284.32,9.25,East
+2024-10-10,0d0c04e6,Groceries,31.35,8.05,North
+2025-02-19,ff636f05,Clothing,430.55,27.94,Central
+2024-09-20,63a68964,Clothing,29.77,9.09,South
+2024-06-03,2d3c73ec,Groceries,264.77,14.76,North
+2024-09-22,418c3e92,Books,266.61,10.93,West
+2025-02-04,40eb083a,Clothing,323.6,27.48,North
+2024-07-04,d9c3a092,Home Appliances,306.32,24.24,Central
+2024-07-12,3f4e8a69,Electronics,415.88,20.85,West
+2024-12-31,f5a0dd06,Groceries,190.69,10.0,East
+2024-05-18,242182ff,Clothing,80.24,28.02,West
+2024-08-29,bd743b21,Clothing,444.68,8.04,Central
+2024-12-22,513b167b,Books,452.38,6.87,East
+2025-01-21,f5575409,Groceries,306.16,19.88,West
+2024-10-03,771adc9a,Groceries,196.38,23.37,East
+2024-09-15,b512cddb,Books,10.93,9.42,East
+2024-07-22,4d16721b,Electronics,258.75,26.43,East
+2025-01-06,bb601520,Groceries,211.4,9.24,North
+2024-03-25,14e1ca4d,Groceries,197.89,28.14,Central
+2024-12-11,e7e87ede,Clothing,426.73,26.92,Central
+2025-02-19,e76ee8fc,Groceries,19.18,13.66,East
+2025-03-12,415f588a,Electronics,326.66,8.71,Central
+2024-09-16,3dd8ec0e,Groceries,50.17,9.01,Central
+2024-12-21,39e9262d,Electronics,236.99,12.98,North
+2024-12-07,00aeab68,Groceries,396.42,15.58,North
+2024-03-18,2fb3e846,Groceries,284.71,9.31,East
+2025-01-25,1b26d5e0,Books,300.24,27.85,Central
+2024-07-18,d4ebe67b,Books,355.55,12.31,Central
+2024-05-05,eb680f34,Books,97.54,22.29,Central
+2024-07-25,db1e7cd7,Clothing,76.16,7.75,East
+2024-07-17,8ecdce71,Clothing,78.96,8.73,West
+2025-03-02,f88aa02d,Clothing,468.17,27.12,North
+2025-02-08,c03223a3,Home Appliances,336.68,24.65,Central
+2024-05-03,ceb39c23,Electronics,303.87,9.42,East
+2024-08-12,ddacb55c,Clothing,137.54,15.98,North
+2024-12-25,7ed9ea17,Electronics,488.54,6.64,South
+2024-07-23,d44b5e58,Clothing,278.72,24.47,North
+2025-02-08,ff8eb712,Clothing,324.76,23.03,South
+2024-09-30,76321e4c,Clothing,21.66,24.26,North
+2024-11-22,6ace987a,Groceries,232.33,17.06,North
+2024-04-26,b5814157,Home Appliances,395.1,24.32,West
+2024-04-05,e1856492,Books,125.76,9.38,South
+2024-10-21,98be20e8,Groceries,34.93,7.45,North
+2025-03-01,85c4bf75,Clothing,351.42,7.81,North
+2025-02-13,c08961fd,Electronics,350.91,16.89,South
+2024-12-12,35cf4598,Electronics,170.2,20.96,North
+2025-02-05,30e0d601,Electronics,393.65,7.96,West
+2024-07-28,96ebd982,Books,435.77,9.27,West
+2024-08-05,77a55cc4,Groceries,240.8,9.95,East
+2025-02-25,9bf82d87,Books,467.03,24.58,North
+2024-09-05,b47ea24a,Books,488.09,9.16,North
+2025-02-06,4d420e07,Home Appliances,465.65,18.15,East
+2025-01-02,79327eb2,Electronics,439.78,6.87,North
+2025-01-24,bfd218f0,Home Appliances,281.42,22.24,West
+2025-02-02,a41c5033,Groceries,161.93,5.89,Central
+2024-06-27,a5445a08,Books,373.71,23.19,East
+2024-07-26,32c47f7c,Electronics,465.64,5.13,East
+2025-02-20,cfc964fa,Home Appliances,154.22,13.25,West
+2024-05-07,23b02ac9,Electronics,102.42,12.86,North
+2024-04-20,90a989b2,Clothing,386.83,14.14,East
+2024-07-28,2f51ca40,Home Appliances,480.34,17.07,East
+2024-07-28,aa9a759a,Books,466.36,29.99,Central
+2024-06-01,ee472d90,Electronics,332.16,13.76,East
+2024-07-12,a53e118f,Books,76.15,23.31,East
+2024-10-18,e8f6b417,Books,16.83,25.7,East
+2024-12-21,f1e69933,Groceries,263.09,18.52,Central
+2025-03-12,35cf5703,Clothing,360.18,29.74,East
+2024-03-26,32c72b1c,Electronics,444.13,12.89,West
+2025-03-08,28307b7e,Groceries,293.04,10.23,East
+2024-11-05,a37937ed,Home Appliances,17.62,5.93,West
+2025-01-09,f4b52463,Home Appliances,24.6,28.04,South
+2025-01-07,edd4a47e,Groceries,356.17,29.56,North
+2024-06-06,a0f9c3e9,Home Appliances,395.1,5.91,North
+2024-06-01,7d1e5461,Groceries,213.74,19.61,West
+2024-07-10,8f01eb2b,Groceries,312.96,24.27,North
+2024-06-20,b76852cc,Electronics,401.97,8.53,Central
+2025-03-14,3aa78422,Clothing,307.95,26.43,West
+2025-01-16,f26aefd8,Clothing,496.75,23.61,North
+2024-05-12,917e5a4c,Electronics,356.68,17.12,South
+2024-04-05,8d466763,Electronics,86.61,23.47,Central
+2024-08-22,3e60439d,Books,441.25,9.88,East
+2024-06-25,06e29c1f,Electronics,91.15,11.22,North
+2025-02-16,15cd99b6,Electronics,448.33,7.94,West
+2024-09-07,2bdaa582,Home Appliances,226.57,20.0,East
+2024-08-12,a46f1a3c,Clothing,440.52,13.11,East
+2024-05-22,7b028e77,Groceries,322.63,24.8,West
+2025-01-08,bdbe8644,Groceries,440.81,23.53,North
+2024-06-25,55b2094e,Electronics,39.56,9.2,North
+2024-06-08,56e881d0,Home Appliances,467.13,29.04,West
+2024-03-19,df1be593,Groceries,442.15,11.12,North
+2024-11-05,16fd08f5,Clothing,449.45,12.72,East
+2025-01-06,976f00d1,Electronics,350.82,28.96,West
+2024-08-31,5d03340e,Home Appliances,44.1,14.98,North
+2024-06-25,6a1aec1c,Groceries,445.92,17.05,West
+2025-03-16,46f9e456,Home Appliances,388.72,12.44,East
+2025-01-20,52877836,Groceries,95.79,18.89,East
+2024-08-06,5abb75e1,Home Appliances,147.76,16.11,North
+2024-06-14,960c1087,Books,460.63,22.18,South
+2024-11-12,59e340ed,Home Appliances,18.9,18.04,East
+2024-07-11,89ddf1a7,Groceries,117.7,14.92,Central
+2025-02-06,61ccf871,Clothing,222.12,17.57,West
+2024-07-05,d45056b9,Groceries,13.7,20.24,North
+2025-02-17,c661d341,Groceries,305.99,19.66,South
+2025-02-27,5889e9d7,Groceries,150.38,21.18,North
+2024-10-19,b07efc3d,Electronics,19.84,26.65,West
+2024-04-23,f88eba9b,Groceries,311.56,26.35,West
+2024-05-11,3354fbea,Clothing,275.08,19.49,Central
+2024-08-31,53559008,Home Appliances,110.27,28.41,West
+2025-03-08,5bb4bef0,Electronics,14.94,13.76,South
+2024-12-09,e4f4e98c,Electronics,308.69,10.56,West
+2025-03-16,76abb08c,Groceries,222.82,16.1,West
+2025-02-11,ec75577d,Groceries,383.79,23.07,South
+2025-03-08,2b310dda,Home Appliances,114.8,13.17,Central
+2024-09-16,8fd48217,Clothing,88.22,5.49,West
+2025-02-17,530be3c8,Home Appliances,150.42,28.56,South
+2024-06-07,ef2c8706,Groceries,362.13,16.54,Central
+2024-11-08,e4e1f2d2,Books,108.27,14.35,South
+2024-07-09,c15f8d8d,Electronics,226.51,9.25,West
+2024-12-20,6361f63e,Electronics,446.7,15.75,East
+2025-02-22,82f1e454,Books,102.32,21.39,South
+2024-11-10,7cc3f673,Home Appliances,331.36,14.19,South
+2024-10-13,dc466b05,Books,348.68,23.37,West
+2024-05-02,0b0a1195,Books,187.76,21.14,West
+2024-06-15,1959d034,Books,191.65,6.36,East
+2024-07-04,0f63fbc2,Groceries,213.32,25.02,East
+2024-04-21,dd55f821,Books,414.97,11.41,North
+2024-09-15,2dee9a8b,Books,123.78,17.41,North
+2024-04-06,f4625d92,Clothing,99.49,18.85,West
+2024-06-27,e657a00d,Groceries,144.55,6.5,South
+2024-09-17,997c3e2c,Books,317.27,26.06,Central
+2025-03-05,18d20981,Books,127.81,12.95,East
+2024-05-05,b8628633,Home Appliances,162.47,27.17,South
+2024-06-24,1e897993,Home Appliances,237.55,6.67,West
+2024-10-26,74cdc95c,Home Appliances,415.66,8.71,West
+2024-12-20,60fed4ae,Home Appliances,385.1,16.02,South
+2025-01-03,2d4cb85d,Clothing,53.56,5.86,East
+2025-03-12,8afbb494,Books,135.25,27.81,West
+2024-07-12,08b20d57,Electronics,190.48,24.21,North
+2024-08-29,f562dcbd,Home Appliances,90.85,26.25,Central
+2024-09-20,0c13ea7f,Electronics,152.9,18.94,East
+2025-03-11,2ad779e5,Home Appliances,14.78,17.44,East
+2025-03-13,09722829,Books,491.12,7.68,West
+2025-01-06,2a41f9c8,Electronics,128.08,26.98,West
+2024-10-19,8003ef4f,Home Appliances,151.99,25.7,South
+2024-06-12,ea01060c,Home Appliances,155.81,11.93,West
+2024-08-03,cc4d3583,Groceries,32.51,25.53,Central
+2024-04-15,984c430d,Clothing,155.66,8.27,East
+2024-04-30,af33260d,Books,444.05,13.96,North
+2024-12-03,cd78ca13,Groceries,37.72,12.38,South
+2025-01-06,1ef16dca,Groceries,259.49,21.96,West
+2024-09-22,73f5ad64,Books,316.05,14.17,West
+2025-03-11,159954cf,Books,10.16,29.47,East
+2024-10-25,5a012b89,Groceries,460.06,19.31,North
+2025-01-11,34552c3e,Books,146.16,13.89,East
+2024-09-01,e83d1d55,Home Appliances,67.08,19.06,West
+2024-10-19,67525073,Home Appliances,374.08,27.64,North
+2024-07-31,6296cbdc,Books,459.71,20.83,East
+2024-09-24,a6dc0c48,Groceries,38.01,23.16,West
+2024-07-22,8a57263a,Home Appliances,459.07,16.61,West
+2024-12-14,9f71cad0,Groceries,240.97,24.24,Central
+2024-09-07,9cfc0546,Electronics,107.79,26.12,South
+2024-12-04,88e21c7c,Books,127.49,9.97,South
+2024-08-24,bcad10fe,Clothing,224.45,18.34,North
+2024-03-24,99e72466,Electronics,160.31,11.78,East
+2024-06-11,e8b5e961,Home Appliances,336.62,26.45,South
+2024-11-23,3e8f849f,Electronics,191.36,16.64,Central
+2024-04-11,1f2bd9ec,Books,263.35,7.34,North
+2024-06-07,f3c523dd,Groceries,37.08,7.99,Central
+2024-06-07,633c9433,Electronics,371.93,7.69,North
+2025-02-24,d6ee8b1f,Groceries,297.75,10.16,West
+2024-11-30,94e122d1,Home Appliances,206.7,10.89,North
+2024-10-02,7b032d08,Clothing,378.37,21.99,West
+2025-01-12,230975cd,Electronics,241.52,21.58,Central
+2024-03-17,39914554,Books,334.58,6.82,Central
+2024-04-30,4b5701d1,Home Appliances,256.76,14.78,West
+2024-11-08,fe66bfd3,Clothing,356.95,12.71,South
+2025-02-09,5f7ee1ee,Books,228.79,16.68,North
+2024-05-07,beffe54c,Clothing,100.08,15.74,East
+2025-03-11,df4958a6,Groceries,367.4,5.06,North
+2024-11-04,4359d94c,Clothing,415.33,22.44,East
+2024-09-23,184a67a8,Groceries,99.84,17.99,West
+2024-04-26,392bc684,Clothing,362.72,17.96,Central
+2024-12-31,540a7a95,Electronics,474.38,26.06,South
+2024-10-30,a0db5e4d,Home Appliances,211.86,11.72,East
+2024-05-12,b4e3a33e,Home Appliances,128.69,5.48,East
+2024-12-15,9604d939,Clothing,482.7,16.33,Central
+2024-08-27,3abd3cb8,Home Appliances,106.7,8.02,Central
+2024-12-20,df38859d,Books,28.35,13.64,East
+2024-07-21,0ea0ce23,Electronics,14.87,21.19,North
+2024-12-06,a5a7fdd7,Electronics,323.53,14.93,East
+2025-02-14,29e5618b,Groceries,64.17,8.15,East
+2024-12-23,2ba640a4,Home Appliances,197.0,10.64,South
+2025-01-06,74595444,Electronics,125.02,7.57,West
+2024-11-18,d5569699,Home Appliances,238.23,5.76,West
+2024-03-25,5f95b606,Books,97.92,11.56,Central
+2025-01-21,0b350b65,Books,113.04,14.46,Central
+2024-11-04,a0d0a7d4,Books,439.28,14.61,East
+2024-09-15,7baada11,Books,290.93,13.29,West
+2024-03-23,442d52c9,Home Appliances,134.64,16.33,North
+2025-01-03,39b6d642,Books,321.35,13.52,South
+2024-12-17,53378a9f,Clothing,397.55,15.7,Central
+2025-02-16,1263cfd1,Home Appliances,282.78,24.41,West
+2024-06-09,08c21265,Home Appliances,420.59,6.39,South
+2024-08-28,e20b7fdd,Electronics,87.52,21.23,North
+2025-03-17,2d6861e5,Home Appliances,212.15,18.24,North
+2024-04-10,386290df,Groceries,188.2,22.66,West
+2024-07-22,1a6bf629,Electronics,44.98,9.3,Central
+2024-05-20,da29dc30,Books,207.6,12.62,West
+2024-03-31,8c8e9891,Electronics,443.43,17.89,North
+2024-10-09,2d2bc4de,Electronics,179.39,13.84,North
+2024-08-08,28c03d3c,Books,415.1,10.18,East
+2024-05-11,0631bbb9,Electronics,485.68,26.16,North
+2024-12-24,08805af1,Clothing,14.65,8.77,Central
+2024-12-19,af12def6,Clothing,241.8,28.33,East
+2024-08-02,a0c5d4dc,Home Appliances,149.37,21.1,Central
+2025-01-21,18c3c0d3,Home Appliances,99.33,13.38,North
+2024-10-11,821b0c61,Electronics,124.1,28.54,East
+2024-11-16,72672ab1,Clothing,283.44,26.4,East
+2025-01-02,3f1c1a25,Groceries,67.34,18.36,South
+2024-12-27,39484d75,Groceries,448.23,29.9,West
+2024-11-04,71fc8ee6,Books,429.77,8.04,North
+2024-09-03,8e96edb6,Books,350.96,13.38,Central
+2024-03-29,a8f512c6,Electronics,313.58,26.27,East
+2024-06-04,c5b58ed5,Clothing,345.22,18.93,West
+2024-03-21,926b6a93,Books,244.66,11.88,South
+2024-08-03,3d6aae23,Home Appliances,258.7,12.79,East
+2024-05-19,957ac431,Books,211.88,25.95,West
+2024-11-09,9df8a495,Groceries,375.1,18.0,North
+2024-07-17,dc2358c2,Clothing,50.15,20.24,North
+2025-01-23,b7e1bb7e,Clothing,20.58,9.19,East
+2024-08-18,e25a4710,Home Appliances,161.22,6.13,East
+2024-07-16,5b8c46ab,Electronics,170.84,24.03,Central
+2024-10-30,12326e63,Groceries,44.42,15.17,South
+2024-12-03,d5c224f1,Groceries,77.05,7.08,East
+2024-12-04,859c27bb,Home Appliances,393.25,12.85,East
+2024-06-22,c7ab1306,Home Appliances,301.17,18.76,South
+2024-11-13,c0f76659,Books,327.13,9.27,East
+2025-03-11,32d1733f,Electronics,261.13,8.63,West
+2024-10-12,e7a7bd1a,Books,266.37,28.21,South
+2024-03-21,1d86a75b,Groceries,47.09,21.65,West
+2024-08-22,b72eea89,Clothing,427.59,27.66,North
+2024-10-28,b32b17fc,Home Appliances,167.0,20.55,East
+2024-11-28,66e51aec,Home Appliances,454.77,21.47,East
+2024-06-27,5e338225,Groceries,309.0,28.72,Central
+2024-06-20,f5914439,Books,232.9,27.03,South
+2024-08-01,f2484faa,Books,62.18,12.89,East
+2024-05-01,bf0f373b,Books,185.81,11.43,East
+2024-05-19,e0bcebd8,Groceries,260.28,16.66,North
+2024-08-31,ea66fdf9,Home Appliances,455.56,5.7,West
+2024-11-18,5164c555,Clothing,82.12,25.51,South
+2024-05-30,dabfbd68,Clothing,53.13,27.37,North
+2024-12-14,fa550804,Home Appliances,444.7,20.01,North
+2024-07-25,1cf2214c,Electronics,463.77,8.95,West
+2024-08-26,7ba6e672,Clothing,494.46,26.71,Central
+2024-04-10,9eab9238,Books,419.85,12.84,South
+2024-12-03,bb0a0f23,Clothing,235.14,28.49,Central
+2024-09-04,9d1fed1d,Books,114.63,17.05,North
+2024-06-11,aa940cba,Home Appliances,369.75,12.3,South
+2024-09-19,fb9f1307,Electronics,361.11,26.27,North
+2024-05-20,94c2dca8,Home Appliances,15.17,14.23,West
+2024-06-14,cfdd32ac,Clothing,109.73,7.58,Central
+2024-08-08,e63b8ad9,Home Appliances,90.8,7.93,East
+2024-09-28,8e0f1195,Home Appliances,305.71,21.05,West
+2025-01-03,f82abb17,Books,491.81,22.34,East
+2024-06-06,4f127e9b,Electronics,450.59,26.73,South
+2024-04-10,84f1468b,Clothing,82.43,5.75,Central
+2024-06-22,e50c8382,Clothing,173.12,21.05,North
+2025-01-24,6f6ec584,Groceries,237.72,24.78,East
+2024-12-04,0340f197,Books,264.32,10.45,North
+2024-10-16,f291ead2,Groceries,423.18,16.43,West
+2024-07-11,061ad5c0,Home Appliances,462.57,17.57,West
+2024-08-14,d89481d0,Electronics,272.53,12.89,South
+2024-08-23,24f4d648,Books,237.09,29.85,Central
+2024-08-20,cb7a3d43,Books,392.75,24.01,West
+2025-01-24,6e7e0076,Clothing,374.78,16.52,North
+2024-05-12,c5d32ab0,Books,480.13,9.87,West
+2024-12-14,6e246dd6,Electronics,370.95,22.69,South
+2025-02-04,70eecf22,Clothing,24.21,18.35,West
+2025-01-23,36e1d9d5,Clothing,490.21,17.68,Central
+2025-01-02,35244f8d,Clothing,492.74,20.97,East
+2025-01-12,99654028,Home Appliances,422.11,28.39,East
+2025-02-11,4f4a6f72,Electronics,356.7,18.41,East
+2024-08-09,c950c309,Clothing,65.79,17.57,North
+2025-01-15,68a077af,Books,236.05,22.28,West
+2024-08-29,25588e84,Home Appliances,91.0,19.43,East
+2024-12-07,72575dc8,Groceries,334.98,19.81,North
+2024-06-17,6ac372e1,Home Appliances,18.78,13.1,Central
+2024-11-06,a274b049,Electronics,484.64,11.94,Central
+2024-07-11,9691e29c,Electronics,50.95,20.01,Central
+2024-05-15,18e424e8,Clothing,245.93,6.41,East
+2025-01-26,19cbecf9,Books,206.45,27.98,West
+2024-06-18,b4c27fe2,Clothing,19.18,5.6,Central
+2024-08-29,8e396450,Groceries,224.85,5.09,North
+2025-01-03,be36bab2,Clothing,205.68,15.8,South
+2024-10-06,766624b4,Books,74.35,19.67,East
+2024-08-25,b7af737c,Electronics,272.43,5.36,South
+2024-06-18,4ab469f9,Groceries,31.92,11.62,North
+2024-10-09,5d2dd46c,Books,67.14,14.35,Central
+2024-04-30,64429236,Clothing,432.57,9.12,East
+2024-09-05,1e89c1e3,Electronics,357.13,26.07,South
+2024-10-10,9c16745a,Clothing,377.06,25.15,West
+2024-07-22,ff6ce9f5,Groceries,290.78,21.01,East
+2024-11-23,55fb4c6a,Groceries,386.33,18.17,South
+2024-09-19,2d02fd88,Home Appliances,307.92,29.9,South
+2024-04-06,3ff3bd04,Electronics,209.44,29.09,West
+2024-07-31,61fe668a,Electronics,138.84,20.87,West
+2024-04-30,a244cf34,Groceries,373.72,16.73,South
+2024-12-05,f9db9372,Home Appliances,303.92,21.78,South
+2025-03-03,a60a70a8,Electronics,74.61,27.77,West
+2024-03-25,bdbdb985,Clothing,68.43,23.98,East
+2024-07-04,709504a0,Home Appliances,133.22,22.94,South
+2024-04-06,2e4c88b4,Groceries,34.57,5.75,South
+2024-07-06,921a92b4,Groceries,182.63,9.23,South
+2024-10-09,000e0a7c,Clothing,86.39,8.52,East
+2024-06-15,65669090,Electronics,172.07,16.59,South
+2024-06-26,0453e13b,Clothing,122.03,25.56,South
+2025-01-20,186ff54f,Electronics,58.19,6.38,East
+2024-09-24,6f922d96,Clothing,426.53,9.51,West
+2024-10-30,ee08e644,Groceries,445.16,23.49,South
+2025-02-02,0983aa97,Electronics,16.0,11.12,South
+2024-09-16,26ca8dd5,Books,67.62,9.5,East
+2024-06-14,cb791907,Books,174.9,19.33,North
+2025-01-14,5e4e3ae9,Electronics,50.51,13.75,South
+2024-03-28,ff48ef6a,Books,482.22,27.92,South
+2024-08-18,eb45d56d,Groceries,320.61,5.98,North
+2024-08-01,919ae544,Groceries,125.3,23.56,West
+2024-10-12,9d7ad9ae,Home Appliances,344.55,10.39,Central
+2025-03-06,68b1cd97,Clothing,129.33,16.73,South
+2025-03-13,0b30db93,Groceries,347.27,27.79,South
+2024-12-30,6a1d4511,Groceries,12.46,5.81,Central
+2024-06-23,e24f0a6f,Electronics,193.14,22.95,East
+2024-06-20,9d772076,Groceries,130.39,21.65,South
+2025-01-23,c9a56ad7,Clothing,390.99,17.62,East
+2024-12-10,266a7e7a,Clothing,382.5,18.08,North
+2025-01-21,1a1e9e5d,Books,159.01,5.14,East
+2025-01-30,c3535b1f,Clothing,483.52,10.38,West
+2025-03-15,e11da375,Home Appliances,35.91,14.69,South
+2024-05-07,7ce076b7,Home Appliances,272.61,8.1,North
+2024-03-29,ecb55b53,Clothing,176.82,17.51,South
+2025-01-16,0444035b,Electronics,83.86,24.07,West
+2024-10-26,5daf6df1,Electronics,95.49,28.93,East
+2024-04-15,18f81f90,Home Appliances,283.03,20.5,West
+2025-02-08,6050d20a,Home Appliances,54.74,13.93,South
+2025-02-04,0c169934,Electronics,112.04,27.82,Central
+2024-11-15,70e98b83,Electronics,323.68,11.46,South
+2024-05-26,8ab2eb3c,Home Appliances,366.03,10.17,East
+2025-02-16,94827a2d,Electronics,107.69,11.77,West
+2024-07-21,0f2060d9,Books,333.31,19.93,South
+2025-03-11,62a283f4,Clothing,418.92,20.12,North
+2024-12-19,582f8c87,Books,492.74,20.53,West
+2024-06-16,ad99deb4,Home Appliances,78.84,23.77,West
+2024-08-30,255f4cce,Electronics,104.77,8.59,South
+2024-04-04,8bee59e3,Home Appliances,391.76,6.84,North
+2025-02-12,e8e7906d,Groceries,406.87,24.04,South
+2025-03-10,eb5eeef1,Electronics,66.24,15.8,South
+2024-03-27,9c225d89,Books,131.11,9.4,East
+2024-08-27,292f83ce,Clothing,42.89,28.36,West
+2024-12-28,ab752f42,Books,401.49,15.35,South
+2025-02-19,b5f68271,Clothing,474.62,5.44,West
+2025-01-02,ee129adb,Books,57.63,24.67,East
+2024-08-27,c52a4454,Books,345.17,24.43,South
+2025-01-17,cd94fb0f,Groceries,323.41,19.58,Central
+2024-05-29,700124ea,Clothing,403.4,14.97,Central
+2024-12-19,1be6475c,Electronics,128.44,27.52,North
+2025-03-03,67ed3648,Electronics,440.95,26.87,East
+2024-08-06,446741c6,Home Appliances,211.87,17.95,West
+2024-11-13,84511244,Home Appliances,260.94,7.67,South
+2024-12-15,81d73d1a,Home Appliances,348.11,27.93,West
+2024-12-30,3317587f,Clothing,430.81,27.46,Central
+2024-06-04,12415567,Books,207.28,16.17,South
+2025-02-17,c3787092,Home Appliances,96.35,16.57,East
+2024-11-18,009d4ae7,Groceries,176.48,23.92,North
+2024-06-01,573f9bc2,Home Appliances,135.72,20.44,Central
+2024-10-18,dd13a436,Electronics,454.9,5.3,Central
+2024-06-08,f7d176ab,Clothing,412.92,12.0,North
+2024-06-10,ab6f8719,Books,190.16,5.32,Central
+2024-04-25,11db69e7,Groceries,147.85,23.97,Central
+2024-06-05,db80b710,Electronics,385.96,8.03,North
+2024-10-16,ecb2de6a,Books,372.44,9.6,South
+2024-12-29,fa925c00,Home Appliances,11.22,8.11,North
+2024-12-17,5e8c68d8,Books,142.35,29.22,East
+2024-08-01,85285e18,Electronics,426.58,20.52,West
+2025-03-06,e2d9ff05,Clothing,281.57,21.05,South
+2024-09-05,02c8b31e,Electronics,444.44,29.04,South
+2024-09-11,3dfdd972,Groceries,65.67,19.53,North
+2024-07-23,cd56dda6,Groceries,66.76,15.37,East
+2025-02-03,559534a3,Groceries,496.5,24.11,East
+2025-02-05,fbab45bc,Books,394.87,7.58,South
+2025-01-06,182ef9fd,Clothing,216.33,6.54,Central
+2024-12-15,7d07d566,Electronics,115.28,11.08,Central
+2024-09-14,07aab3f6,Groceries,290.96,16.93,West
+2024-06-14,f31366e3,Electronics,416.23,18.26,Central
+2024-10-01,23d057d2,Groceries,406.35,6.34,North
+2024-05-04,19f2f7d4,Books,429.56,26.28,South
+2024-04-05,417f1933,Groceries,429.18,9.02,North
+2024-12-03,dc9d643e,Home Appliances,48.8,29.94,Central
+2024-07-28,4b63f59d,Books,78.21,28.92,South
+2024-07-24,d7cc751c,Electronics,413.86,21.37,South
+2024-09-30,0cd6e024,Groceries,488.74,24.44,South
+2024-05-02,6a452743,Home Appliances,274.88,25.35,South
+2024-05-09,91e4ca90,Home Appliances,166.41,29.52,North
+2024-04-29,4dd7db4f,Clothing,159.04,22.5,North
+2024-09-03,74573a56,Clothing,429.45,14.71,East
+2024-06-25,503bcdde,Clothing,286.83,23.3,West
+2024-06-09,cc954b13,Home Appliances,190.03,6.63,North
+2025-01-26,51e8ae48,Electronics,294.86,7.54,South
+2024-05-27,2efff2db,Books,328.14,24.18,East
+2024-05-22,cdbb240d,Books,158.72,24.98,Central
+2025-01-15,f3a7b449,Books,236.75,11.76,North
+2025-02-25,519c4e85,Home Appliances,310.65,17.22,South
+2024-05-24,f69be239,Home Appliances,99.78,14.9,South
+2024-11-30,96060d6d,Clothing,262.71,13.55,East
+2024-03-21,91e007bb,Home Appliances,240.54,6.03,North
+2024-09-15,9fe45fd5,Home Appliances,29.67,24.49,North
+2025-01-21,99864f61,Clothing,484.72,7.7,Central
+2024-04-08,cc03b579,Clothing,12.76,11.86,South
+2025-03-01,55ab27c9,Clothing,391.88,8.72,West
+2024-10-20,4cb3cec9,Groceries,94.73,8.47,Central
+2024-10-01,359af61b,Electronics,16.61,25.96,West
+2024-05-11,23b517e6,Clothing,350.41,21.47,West
+2024-06-23,ff2c59b9,Clothing,181.61,25.7,East
+2024-12-13,f1c99de5,Clothing,96.46,10.7,West
+2024-04-20,8e3033fe,Electronics,246.33,9.55,North
+2024-10-29,40013ffb,Books,387.34,29.59,South
+2024-11-19,1d46c773,Books,106.46,20.33,East
+2024-07-13,da052314,Books,86.08,5.92,West
+2025-02-16,954de6fe,Clothing,212.93,5.66,North
+2024-06-14,e62fe50e,Groceries,84.06,15.06,West
+2024-04-10,e8cc5878,Books,272.85,7.02,South
+2025-02-11,28ced633,Books,64.11,14.98,East
+2024-05-17,084f3a3f,Home Appliances,328.37,13.89,Central
+2024-04-23,0d77e304,Home Appliances,177.13,16.91,East
+2024-08-21,493f8145,Groceries,325.85,21.98,East
+2025-02-02,c9b84682,Groceries,309.97,8.39,North
+2024-03-31,6bfe2d2f,Electronics,462.8,19.72,North
+2024-11-01,ac5e4796,Books,87.36,19.21,South
+2024-03-24,56bb40b4,Groceries,482.0,8.06,North
+2024-07-18,d3346bdf,Groceries,10.75,22.89,North
+2024-04-09,76bc5d26,Books,72.47,18.81,Central
+2024-07-12,c487932f,Electronics,171.15,12.32,East
+2024-12-04,3f7d101d,Books,210.02,18.87,South
+2024-08-06,36b08648,Books,497.7,6.24,Central
+2024-05-08,5a3d18cd,Electronics,33.62,8.16,West
+2025-03-10,8c2b806d,Home Appliances,493.64,9.14,East
+2024-03-28,32d21bc6,Groceries,78.48,6.9,West
+2024-07-08,bc961952,Groceries,361.58,29.69,North
+2024-05-14,43def20c,Home Appliances,420.27,23.58,West
+2024-05-31,e0d0ba1d,Electronics,17.9,16.9,West
+2025-01-11,0d1fda2b,Books,389.78,26.27,West
+2024-07-27,7f3d5eaa,Electronics,415.8,5.65,East
+2024-10-11,5c69f817,Clothing,309.88,5.5,North
+2024-08-01,a27ea145,Electronics,224.02,15.64,West
+2024-12-01,603745ce,Clothing,450.52,14.25,South
+2024-04-01,9a6220fe,Home Appliances,161.18,8.98,East
+2024-12-30,7a4db01f,Electronics,125.78,10.96,West
+2024-03-17,20e17d45,Clothing,221.69,6.08,Central
+2025-03-09,19d2e103,Clothing,190.48,24.6,South
+2024-10-24,3ecb8603,Electronics,106.9,29.17,North
+2025-01-12,b2bcc90c,Electronics,120.7,11.6,West
+2024-07-01,e12f5efd,Home Appliances,192.9,21.86,East
+2024-08-03,b59fef2e,Groceries,375.43,11.24,Central
+2024-05-09,eb901e7e,Groceries,146.37,17.06,East
+2024-06-29,c6bbf162,Groceries,22.62,15.35,Central
+2024-04-29,08873c50,Books,430.51,19.45,South
+2024-11-23,30dde662,Clothing,68.97,25.33,East
+2024-12-27,322c5b56,Clothing,321.13,28.98,South
+2024-10-30,e9c1a199,Books,374.79,5.12,Central
+2024-08-23,bbdbf6ef,Books,341.5,16.25,Central
+2024-11-18,5e51b050,Home Appliances,230.7,13.83,South
+2024-07-21,25cf2b16,Electronics,111.14,23.79,West
+2024-03-20,5eb60d46,Home Appliances,392.97,14.92,Central
+2024-10-28,db2c2a85,Home Appliances,11.76,16.65,North
+2025-03-03,c3be2da1,Electronics,405.99,10.91,South
+2024-06-17,619ef394,Clothing,217.34,14.05,East
+2024-05-12,187a9d6f,Home Appliances,153.96,8.81,West
+2024-05-24,477a7a28,Clothing,370.49,7.57,South
+2024-05-07,e6a34a43,Home Appliances,490.6,14.42,Central
+2024-12-07,aea1e2a8,Home Appliances,443.25,18.53,North
+2024-05-14,ffc7ecb3,Electronics,333.88,12.3,West
+2024-08-03,15f733c6,Groceries,416.52,26.04,Central
+2024-05-19,982d78f1,Books,177.95,17.55,West
+2024-09-08,354fcd57,Home Appliances,132.59,13.25,East
+2025-01-07,51061907,Electronics,228.31,19.09,North
+2024-10-28,1fd35bce,Books,194.24,28.73,South
+2024-12-20,a2bca097,Groceries,488.19,20.2,North
+2024-12-15,b7a46258,Books,111.62,6.0,North
+2024-09-27,d24f3a02,Groceries,70.11,10.95,North
+2024-03-24,8200c08c,Electronics,383.56,6.12,East
+2024-06-23,856ea21f,Clothing,80.29,8.64,East
+2024-08-31,77700a66,Electronics,19.28,18.33,South
+2024-08-03,954f4f8b,Electronics,74.02,24.89,East
+2024-12-13,167be8c0,Groceries,411.55,13.12,South
+2024-09-04,17925025,Electronics,61.5,21.1,North
+2024-07-25,48b1d76f,Electronics,51.16,20.2,South
+2025-03-06,674d1e79,Clothing,67.4,25.3,North
+2024-04-04,6817f52f,Groceries,375.43,20.81,North
+2024-11-29,d447887e,Clothing,177.88,13.99,Central
+2024-10-15,461ff8ee,Groceries,422.37,18.3,North
+2024-10-13,6da25da7,Groceries,69.99,10.76,West
+2024-10-09,b14634ec,Books,138.45,26.46,Central
+2024-11-10,675a273a,Groceries,417.02,10.55,North
+2024-07-26,765c0a74,Home Appliances,261.33,8.86,South
+2024-04-10,1afc9a37,Electronics,282.83,21.22,East
+2025-03-05,7a8b997b,Groceries,286.61,17.91,West
+2025-03-17,cb12cef8,Home Appliances,442.55,13.12,West
+2024-06-01,25aa53b4,Home Appliances,227.98,22.33,East
+2025-02-27,99c142d1,Books,350.5,20.12,East
+2024-12-16,e168ad23,Books,19.96,14.09,West
+2024-11-29,96569d2b,Clothing,439.6,23.1,South
+2024-07-09,43500fe0,Groceries,406.36,21.29,East
+2024-09-14,c52c29f9,Home Appliances,166.79,27.43,East
+2025-01-16,ae1c2a8c,Electronics,422.67,20.93,South
+2024-06-18,cba570e2,Electronics,206.93,22.79,West
+2024-09-25,36e69e79,Electronics,309.5,5.92,Central
+2024-10-13,d8b278fc,Groceries,279.67,8.6,West
+2024-10-18,f2146dba,Groceries,218.71,17.61,North
+2024-11-15,9b091faf,Groceries,122.02,15.57,East
+2025-01-15,e9f29e04,Clothing,311.77,23.94,North
+2025-02-09,4877124e,Electronics,315.25,18.41,West
+2024-10-23,8c38410a,Clothing,429.12,11.83,Central
+2024-08-21,e39037e4,Books,234.05,11.79,Central
+2024-06-19,40d95df8,Electronics,190.68,5.44,Central
+2024-09-26,4cb9d022,Books,233.99,19.43,South
+2024-07-31,c6bf53d9,Clothing,312.69,15.5,East
+2024-11-08,19efac25,Home Appliances,285.35,25.48,Central
+2025-01-27,a79d9f48,Electronics,131.1,29.07,North
+2024-07-18,63b7a33b,Books,205.81,18.74,East
+2024-04-08,f59195f9,Electronics,235.9,20.58,Central
+2024-07-16,7252cd4e,Groceries,433.18,25.9,North
+2025-02-05,8dd93d3f,Electronics,16.23,13.88,South
+2024-07-17,b94ad7c3,Home Appliances,440.31,15.5,Central
+2024-06-26,7b191550,Home Appliances,389.62,8.21,West
+2024-06-01,d058b56a,Clothing,430.23,24.97,South
+2024-03-19,8b831d9a,Clothing,277.47,8.99,East
+2024-05-05,4c100405,Electronics,122.92,17.86,Central
+2024-11-17,95ba9356,Electronics,321.88,15.86,South
+2024-12-19,1e6acbfb,Home Appliances,332.64,29.8,East
+2024-07-18,6a955170,Groceries,395.16,7.84,North
+2024-10-28,91dc4c1b,Books,288.39,24.58,East
+2024-10-07,ed44aa96,Books,76.63,20.58,West
+2024-07-31,6d7158e7,Clothing,250.95,21.88,South
+2025-03-12,0a170ebc,Books,366.43,6.57,North
+2024-08-21,50e7fdb6,Home Appliances,101.96,11.34,West
+2024-03-20,c5a73de0,Clothing,219.88,10.41,West
+2024-05-27,aa04b637,Home Appliances,131.17,27.02,North
+2025-01-03,8f60f4d9,Books,95.62,18.17,North
+2024-12-17,81b04d8f,Groceries,134.4,23.25,Central
+2025-02-14,0a4720dd,Books,306.52,19.46,Central
+2024-11-08,16d68108,Clothing,156.86,12.05,West
+2024-11-18,bde5893e,Home Appliances,77.13,20.27,East
+2024-10-24,a118662f,Groceries,472.62,12.53,Central
+2025-01-24,729a4ae2,Books,220.33,20.66,Central
+2024-06-10,c6b7f2f9,Groceries,74.33,22.62,West
+2025-01-26,06e910a1,Books,416.75,15.22,North
+2024-05-08,0f8aabff,Clothing,466.94,19.0,Central
+2024-03-20,5e0435fd,Groceries,219.46,5.19,South
+2024-12-21,5fd4caf9,Home Appliances,126.8,17.04,East
+2024-05-16,a1ac359f,Electronics,56.37,11.29,Central
+2024-09-02,268716c5,Home Appliances,378.59,27.84,South
+2024-07-31,cfe633d6,Groceries,344.39,21.43,North
+2024-05-20,34723210,Clothing,241.3,18.75,Central
+2024-04-27,3e0f0179,Groceries,332.95,24.23,Central
+2024-05-18,39be7d17,Books,62.03,11.48,East
+2024-10-14,37bb133e,Groceries,448.39,22.74,West
+2024-09-16,57da0e53,Groceries,404.46,26.59,South
+2024-05-05,01e2549f,Groceries,301.65,9.64,North
+2024-11-24,932f5477,Home Appliances,38.22,28.03,South
+2024-09-27,46569c6f,Groceries,32.42,12.82,South
+2025-01-10,e0ac65f5,Books,162.54,11.92,East
+2025-02-02,7989212e,Books,35.16,24.59,Central
+2024-04-14,7390f0f6,Groceries,157.77,9.1,North
+2024-06-04,3140e2a8,Books,45.37,18.35,North
+2024-12-27,717b66e3,Electronics,22.7,17.27,South
+2025-02-14,232693e7,Groceries,121.13,21.73,North
+2024-05-01,bf0bff90,Electronics,14.87,28.92,North
+2024-04-15,560382f8,Groceries,158.16,17.78,North
+2024-03-28,601707ca,Clothing,208.87,23.86,South
+2025-02-15,76ca6bde,Clothing,210.96,28.4,South
+2024-06-08,50ce3991,Electronics,358.24,13.56,West
+2024-11-23,58198772,Groceries,299.36,22.74,South
+2024-04-13,5c0f24a2,Electronics,31.2,16.9,East
+2025-01-29,643a69a5,Books,348.79,9.17,Central
+2024-07-07,96ef9504,Groceries,250.17,20.31,South
+2025-02-21,9f33d7c2,Books,287.36,21.35,North
+2024-11-22,c3e5377f,Electronics,63.79,7.86,South
+2024-09-16,1ad5ac83,Clothing,260.98,27.48,Central
+2024-08-05,f5c652b3,Groceries,232.13,8.67,North
+2024-10-25,1bec9bc2,Home Appliances,468.75,24.75,Central
+2024-06-07,36401eb1,Electronics,200.71,10.64,South
+2025-01-26,3693c4e3,Books,157.22,12.06,East
+2024-11-04,8b75fbfb,Electronics,423.16,20.08,West
+2025-03-11,cf1afddf,Groceries,445.22,13.59,East
+2024-11-22,302b7ed3,Electronics,136.79,9.09,West
+2024-08-02,f7a0aaea,Books,221.32,26.1,East
+2024-09-28,5e6b823a,Books,491.75,16.39,East
+2024-12-20,ea9fbf88,Groceries,312.09,24.83,Central
+2024-06-03,aeb80bf4,Groceries,152.05,11.59,North
+2024-09-23,5fb612d7,Electronics,100.81,23.52,West
+2024-10-21,83f5d6fb,Electronics,466.44,8.38,West
+2024-10-15,89ba012b,Books,381.48,23.21,East
+2024-04-26,be394788,Groceries,18.77,25.98,North
+2024-04-23,b753eda6,Home Appliances,340.77,29.11,Central
+2024-06-26,c403773c,Electronics,141.67,12.88,Central
+2024-11-20,da42c1ed,Clothing,354.72,6.11,North
+2024-10-20,0b0a8460,Books,32.43,13.88,South
+2025-02-11,8c2c6d02,Clothing,266.02,26.78,Central
+2024-06-12,018cfe03,Home Appliances,120.85,10.51,East
+2024-08-14,9234114b,Groceries,377.42,5.69,East
+2024-07-05,66709914,Groceries,15.32,19.92,South
+2024-08-16,5c1871f3,Clothing,342.42,27.97,Central
+2024-04-10,9232936c,Groceries,338.32,22.16,South
+2025-02-28,b2353657,Books,386.03,6.01,North
+2024-03-24,d8b916d8,Home Appliances,264.03,16.01,North
+2024-04-23,7a20d4b5,Home Appliances,58.19,27.37,West
+2024-12-18,bb0ebc51,Clothing,285.34,14.2,West
+2025-01-12,82857473,Books,476.18,17.71,South
+2024-06-05,ec4a1f31,Clothing,206.97,12.5,Central
+2024-04-06,1b418f96,Clothing,476.77,24.24,Central
+2025-02-16,dfb7b569,Books,294.76,16.93,West
+2024-04-03,f8bec02b,Electronics,435.08,16.36,North
+2024-09-15,79b4858b,Electronics,317.68,19.02,East
+2025-03-05,15f470c3,Groceries,222.56,28.57,North
+2024-06-24,49cb1cbc,Electronics,389.33,16.73,East
+2024-10-03,f2af755b,Home Appliances,345.39,28.75,South
+2025-01-16,590fe2b7,Electronics,18.51,28.0,Central
+2024-12-14,c4333cec,Books,203.59,20.74,South
+2024-07-18,4dbcd95b,Electronics,324.08,17.32,East
+2024-06-03,5d4c162c,Clothing,182.59,6.89,North
+2024-11-22,14fa944c,Groceries,375.07,21.65,West
+2024-12-04,161e5ce9,Clothing,45.52,18.24,North
+2024-11-09,6e7da78c,Home Appliances,241.54,5.93,Central
+2024-05-22,de1908bd,Clothing,37.77,18.59,Central
+2024-09-10,87c40833,Books,142.99,21.78,North
+2024-05-06,63cde970,Clothing,125.45,11.28,Central
+2024-10-28,1d41fff2,Books,188.26,12.21,East
+2025-02-04,93addb79,Home Appliances,218.75,11.36,Central
+2025-01-06,41dc6fdb,Clothing,234.94,18.66,East
+2024-05-16,92599e23,Home Appliances,318.01,25.12,Central
+2024-04-29,5a4f41a5,Electronics,209.25,7.62,South
+2024-06-22,86895939,Books,449.82,18.24,West
+2024-09-09,6dc95598,Home Appliances,35.3,18.31,West
+2024-09-19,9d0b97a4,Home Appliances,323.93,14.74,North
+2024-10-31,cdeeb944,Books,80.74,11.92,South
+2024-07-05,3dae34bb,Groceries,413.9,13.66,North
+2024-08-09,98097d82,Clothing,297.85,26.07,East
+2024-08-09,50e10142,Groceries,55.59,18.89,North
+2024-09-07,c7aec94f,Books,406.45,12.72,East
+2025-02-24,430b7a7e,Clothing,440.89,15.35,Central
+2025-02-04,d779e9f8,Clothing,491.9,18.72,East
+2024-03-25,e4d7a6cd,Groceries,399.89,14.84,North
+2025-03-15,bdc64120,Books,47.32,5.29,West
+2024-11-22,f7290dd6,Home Appliances,447.59,8.54,South
+2024-09-02,d46e09c9,Electronics,34.82,21.75,Central
+2024-04-21,1319a847,Clothing,219.53,28.74,North
+2024-03-26,27862733,Electronics,458.29,23.2,Central
+2024-06-26,7a6ce9cb,Electronics,361.19,14.26,West
+2024-11-07,40d6f01c,Clothing,76.74,19.96,Central
+2024-05-30,42436823,Clothing,32.02,28.32,West
+2024-03-18,8a3f54ab,Books,454.95,23.06,North
+2025-03-06,fb420683,Groceries,351.48,21.32,North
+2024-05-04,94227d61,Books,388.68,29.69,East
+2024-11-02,5db0eedd,Groceries,460.9,28.41,West
+2024-09-05,fb11147c,Clothing,69.05,12.57,Central
+2024-12-12,1e604e36,Books,409.46,15.07,North
+2024-10-14,829af495,Books,44.65,25.79,East
+2024-09-20,307e5b9b,Groceries,417.08,20.63,South
+2025-01-12,ee2da50c,Books,240.83,28.11,North
+2024-12-19,12007cb7,Groceries,177.63,24.51,North
+2025-03-04,41dac2c2,Electronics,472.21,15.44,Central
+2024-10-14,45ae25fb,Home Appliances,202.17,19.78,South
+2024-04-30,117137ae,Clothing,228.2,12.6,East
+2024-08-24,0ba30310,Clothing,153.6,5.74,Central
+2024-08-04,7e43538c,Groceries,225.05,15.19,Central
+2025-03-01,cc8fe7d8,Clothing,155.23,24.34,East
+2024-04-23,51a5f960,Books,274.94,26.48,Central
+2024-04-02,6f601f74,Electronics,324.81,10.97,South
+2025-01-02,919c1a0f,Clothing,30.99,6.35,East
+2024-11-23,1a7d7918,Clothing,341.4,5.85,Central
+2024-11-27,61df9eb4,Electronics,270.87,21.16,North
+2024-07-12,d063e59b,Electronics,481.49,16.69,Central
+2025-02-15,322db380,Groceries,212.64,14.91,East
+2025-02-01,fe6def7b,Electronics,326.75,27.93,West
+2024-08-02,082c378b,Clothing,106.05,13.35,South
+2024-12-24,8e9d1c1b,Electronics,50.95,28.4,South
+2025-03-10,2973d535,Groceries,345.01,23.1,North
+2024-12-24,530aabd6,Home Appliances,484.19,14.22,West
+2025-02-18,ea87c9e9,Home Appliances,23.65,21.03,South
+2024-09-05,a7d83c8b,Books,374.68,19.81,South
+2024-05-07,e76186a6,Home Appliances,118.89,24.99,South
+2024-04-19,9007f698,Groceries,317.94,5.96,Central
+2025-01-23,fa12f55e,Clothing,470.51,11.9,North
+2024-05-26,9bf852d8,Groceries,307.88,25.19,West
+2025-02-22,33b99cca,Electronics,154.94,5.96,Central
+2024-07-26,40c96fad,Groceries,378.46,9.85,West
+2024-08-31,d76733fa,Groceries,132.64,8.49,West
+2024-12-29,6eedbbb5,Electronics,440.73,6.89,Central
+2024-06-13,c347319f,Books,451.03,22.37,East
+2025-03-01,2a40c792,Home Appliances,429.55,8.62,North
+2024-06-13,8175ef30,Groceries,272.16,7.65,North
+2025-02-07,f41d9a62,Home Appliances,184.45,22.29,West
+2025-02-17,6616311f,Electronics,398.34,8.25,South
+2024-09-04,5e3bbc14,Electronics,41.32,17.04,West
+2024-12-18,7b10023a,Books,347.54,24.43,East
+2024-03-31,187bd3d6,Electronics,299.15,25.46,Central
+2024-10-19,2cb1fbe5,Books,47.44,13.41,East
+2024-09-06,824202d2,Groceries,266.61,12.93,East
+2025-01-07,4e9b42dc,Electronics,499.6,21.34,West
+2024-03-28,52720298,Books,201.03,10.88,East
+2024-03-31,412e7333,Clothing,242.34,6.45,South
+2025-02-06,44977814,Home Appliances,54.7,10.93,North
+2025-01-14,492c2931,Clothing,442.88,25.73,Central
+2024-07-27,05a004d4,Books,477.68,27.46,North
+2025-01-04,eecc0d36,Clothing,228.31,22.5,Central
+2025-02-28,51f633a7,Electronics,299.33,27.64,Central
+2024-11-15,43c84ac1,Books,264.45,7.22,East
+2024-09-09,9e1321dd,Electronics,134.17,5.4,North
+2024-10-19,ddda574a,Clothing,320.89,26.44,East
+2024-06-14,b8840203,Clothing,483.93,21.95,Central
+2025-02-25,d98ddade,Home Appliances,338.82,15.45,West
+2025-03-13,e01c0a6a,Groceries,278.7,20.16,West
+2024-12-17,d3bdcd71,Groceries,78.65,26.8,West
+2024-04-20,b0ba6323,Home Appliances,133.32,14.56,South
+2024-04-22,54fbdb3f,Clothing,493.9,13.7,North
+2025-02-17,498e268e,Home Appliances,159.18,11.04,North
+2024-08-01,3f129334,Books,122.79,5.79,North
+2024-06-07,af0e666b,Books,463.56,7.42,South
+2024-11-21,556c237a,Clothing,118.95,20.18,Central
+2024-03-18,e16d8c0c,Home Appliances,491.05,17.78,East
+2024-08-20,b5e61b3e,Electronics,168.93,18.17,Central
+2024-08-30,314f24a4,Clothing,120.78,16.79,Central
+2025-02-13,9f8682b2,Books,19.26,25.41,North
+2024-10-31,c5454cdb,Clothing,117.13,14.51,South
+2024-06-21,f5b00225,Books,406.4,11.8,West
+2024-11-09,0609fc1a,Clothing,203.07,14.35,South
+2024-10-02,bd344ec9,Clothing,262.09,20.33,North
+2024-10-06,f409b56d,Books,364.5,17.91,South
+2025-02-21,f7c8ebd8,Electronics,442.27,16.48,North
+2025-03-06,f89c2733,Electronics,338.17,28.48,Central
+2024-06-20,16c3140b,Clothing,59.74,24.97,North
+2024-09-19,09f687a7,Electronics,354.51,13.13,East
+2024-05-01,e365f4bd,Electronics,272.1,10.92,South
+2024-10-15,c5161f3d,Books,212.57,6.66,North
+2024-04-09,c9e76901,Clothing,31.29,11.99,North
+2024-12-09,8955dbf9,Clothing,203.89,25.22,North
+2024-04-01,96e2759a,Home Appliances,199.27,21.13,Central
+2024-09-11,9b4096ee,Books,50.7,9.71,South
+2024-06-26,c1732063,Books,363.27,17.94,Central
+2024-08-24,17936f41,Home Appliances,208.55,12.33,North
+2024-10-29,7421af91,Groceries,339.98,10.52,West
+2024-05-15,684be6c8,Home Appliances,393.36,19.02,Central
+2024-08-04,67d4a614,Books,102.68,26.92,North
+2025-02-15,33fd17d7,Books,431.49,23.21,North
+2024-10-21,574607c8,Electronics,35.99,29.31,Central
+2025-01-05,043c8055,Books,349.47,28.6,East
+2024-10-08,caebe326,Books,463.61,9.1,North
+2025-01-30,baa2178f,Home Appliances,195.87,28.66,North
+2024-04-07,ee688bfd,Clothing,321.78,17.0,North
+2024-10-25,700728ea,Electronics,499.77,5.07,East
+2024-07-08,b1836a1f,Books,451.61,12.29,East
+2024-04-15,ca081c5e,Groceries,50.8,20.09,Central
+2025-02-20,d9b92f62,Groceries,170.56,7.81,East
+2024-06-04,4648938a,Electronics,17.57,26.71,North
+2024-05-22,4773e164,Electronics,402.45,6.03,Central
+2024-07-15,22bc928b,Home Appliances,88.88,6.22,East
+2025-01-27,1c08e4cc,Groceries,498.42,14.39,North
+2025-03-02,ccf4d126,Clothing,492.5,16.79,West
+2024-11-29,6971d507,Groceries,21.24,24.9,Central
+2024-11-03,7d529e7c,Groceries,65.1,27.0,Central
+2025-02-24,a5b1aa11,Electronics,240.1,28.41,South
+2024-08-12,dc9d6036,Books,353.83,25.89,East
+2024-12-04,7f64ddd9,Electronics,473.56,6.53,East
+2024-09-04,90f682f5,Groceries,171.26,24.53,South
+2025-01-02,8b292e5a,Electronics,430.5,26.39,East
+2024-05-29,3fa20587,Books,48.65,15.79,North
+2024-09-27,2903b3f3,Clothing,224.98,27.96,Central
+2024-08-13,1c6e1f93,Clothing,410.43,25.69,South
+2024-09-04,bd193b60,Clothing,68.25,28.91,South
+2024-08-17,3f20c114,Clothing,61.2,18.54,West
+2025-02-05,790fb323,Books,409.89,16.8,South
+2024-08-28,71f5731d,Groceries,189.85,29.99,Central
+2025-02-25,e53911cd,Books,39.1,10.22,East
+2024-05-11,068520b1,Groceries,447.09,9.45,South
+2024-04-12,5ec535eb,Books,160.14,10.13,East
+2025-01-24,0f45cf32,Books,496.1,11.81,West
+2024-07-30,149603f1,Books,475.52,10.51,West
+2024-12-22,031047e1,Books,310.18,6.46,Central
+2024-11-24,d5576a1e,Clothing,148.04,13.88,West
+2024-12-09,a4c18853,Groceries,217.24,9.63,North
+2025-01-03,09b7e999,Electronics,291.48,23.27,South
+2024-05-19,51dc9d74,Clothing,491.74,21.1,Central
+2024-03-31,8a99d9ad,Electronics,196.18,25.44,Central
+2024-04-19,e34d3962,Groceries,292.49,14.09,Central
+2025-01-24,8c3ddb9b,Books,245.86,25.43,West
+2025-03-02,d0623462,Books,124.64,28.21,East
+2025-03-11,af3800ca,Groceries,478.95,7.5,West
+2024-04-14,acb8aa97,Home Appliances,20.17,17.27,West
+2024-10-09,4014836e,Home Appliances,115.84,8.79,Central
+2024-12-24,0e1b36ab,Electronics,458.83,23.92,East
+2024-09-07,78696956,Books,221.66,18.74,West
+2024-10-13,51859037,Home Appliances,220.64,26.15,West
+2024-09-13,ec0aa19d,Home Appliances,80.91,6.01,West
+2024-10-03,9bd15915,Books,333.57,12.57,North
+2024-04-03,08e0947f,Groceries,218.91,19.52,South
+2024-10-19,d275f756,Clothing,466.77,29.57,West
+2024-05-28,1b0a059d,Home Appliances,276.38,19.18,South
+2024-09-08,aec25d25,Books,227.97,6.67,East
+2024-03-23,a068126c,Home Appliances,323.82,15.3,West
+2024-09-27,51c7ea59,Clothing,75.26,14.33,North
+2024-12-21,a57ccd1b,Groceries,497.17,13.86,West
+2024-07-04,040e3e68,Electronics,185.64,25.24,North
+2024-04-05,f9490a97,Electronics,232.6,25.52,East
+2024-10-04,6785aeaa,Books,325.91,14.22,West
+2024-06-11,b5401906,Groceries,386.69,18.41,North
+2024-07-07,199d71fc,Books,304.7,11.55,West
+2024-08-30,0e97b96b,Groceries,113.46,29.44,Central
+2024-06-18,7f3c4fb2,Clothing,257.32,21.51,South
+2025-02-21,77d7b278,Books,187.47,24.28,East
+2024-09-01,a87cff66,Home Appliances,310.41,23.76,South
+2024-03-20,0723c4ef,Books,59.8,7.8,Central
+2024-04-02,bca275ff,Clothing,347.4,5.45,East
+2024-08-17,9d47b142,Electronics,48.5,16.34,West
+2025-02-14,c402bffa,Books,421.58,13.43,West
+2025-01-28,66bc5523,Groceries,99.31,29.25,North
+2024-11-01,a87f3c46,Electronics,465.74,21.02,South
+2024-12-31,833eb754,Groceries,362.05,20.73,North
+2024-10-11,cb96cdaa,Groceries,129.35,27.04,Central
+2025-02-08,8d3d9115,Electronics,212.64,27.13,North
+2024-10-26,b35f6c3f,Electronics,281.45,25.82,Central
+2024-06-04,c61baf79,Groceries,274.19,26.97,West
+2024-08-13,a1992c84,Books,57.33,7.93,West
+2024-12-24,9b329eda,Books,341.82,28.83,North
+2025-02-05,f220b463,Groceries,105.88,26.08,Central
+2024-07-03,db8510c3,Books,142.38,28.55,North
+2025-01-23,a3e2c9d5,Home Appliances,148.86,24.09,West
+2024-05-28,23390703,Clothing,123.21,15.1,North
+2024-06-18,00644016,Groceries,401.84,7.09,South
+2025-01-20,8376f21f,Groceries,319.94,19.66,South
+2024-12-11,69c47545,Groceries,390.6,23.28,Central
+2025-01-17,c2f4795c,Books,65.9,24.45,Central
+2024-12-22,70b7aff6,Groceries,401.14,5.99,North
+2025-03-08,f960de68,Electronics,244.96,16.61,North
+2024-10-23,787c46fc,Groceries,11.68,23.0,North
+2024-11-05,6515061b,Clothing,219.21,28.27,West
+2024-03-18,b133560c,Clothing,121.2,9.55,South
+2024-03-24,db44c3fe,Clothing,280.35,23.85,North
+2024-08-05,54bd1d08,Home Appliances,124.06,6.3,Central
+2025-01-04,bd52418f,Home Appliances,192.17,14.97,Central
+2024-06-23,13433c1c,Books,494.38,9.83,East
+2025-02-18,70a14fe4,Clothing,472.38,8.7,South
+2025-01-27,4dddb4b5,Clothing,173.6,24.28,East
+2024-06-11,3dfb5a7a,Electronics,69.93,15.69,East
+2025-03-12,1393db01,Home Appliances,211.8,8.02,West
+2024-05-25,b5382239,Groceries,284.55,21.69,East
+2024-03-19,6cd76529,Books,89.44,16.29,West
+2024-10-20,e81ba6d9,Groceries,331.87,17.29,North
+2024-12-14,f94162cb,Books,139.95,27.08,Central
+2024-12-21,82b5248e,Clothing,455.07,19.83,Central
+2024-05-06,85ba16e4,Books,497.53,17.89,Central
+2024-03-18,10692ded,Clothing,328.09,22.95,North
+2025-02-26,ab71a905,Groceries,297.66,12.25,West
+2025-03-13,30113a37,Books,157.28,28.21,East
+2025-01-19,1e286a79,Clothing,178.75,17.25,South
+2024-10-17,f68a9d81,Home Appliances,494.38,9.5,North
+2024-03-27,020d1bbf,Books,292.33,29.2,East
+2024-10-09,926c4bbf,Home Appliances,75.38,9.62,South
+2024-12-18,7235768b,Clothing,331.57,22.45,Central
+2024-08-26,4a18e67d,Electronics,318.21,24.47,North
+2024-03-31,78140e4d,Books,256.67,11.64,West
+2024-11-06,3da74068,Clothing,243.93,14.23,East
+2024-04-07,a538c477,Books,120.31,9.95,Central
+2024-04-09,73e63dcc,Clothing,116.58,26.76,West
+2024-04-04,b4d6ce41,Clothing,244.57,26.08,South
+2024-07-30,caf447d1,Groceries,167.21,22.41,North
+2024-10-02,70e6171d,Clothing,80.4,22.05,South
+2024-06-25,81967565,Books,254.71,14.62,North
+2025-02-03,1e596278,Books,128.41,26.18,South
+2024-09-28,731c4ac7,Clothing,427.59,16.75,North
+2024-10-26,87e033f2,Clothing,200.19,24.55,Central
+2024-05-20,65ed9295,Home Appliances,491.52,22.83,South
+2025-02-08,07c220b7,Home Appliances,334.04,21.21,Central
+2024-10-26,2575159e,Clothing,97.65,10.97,West
+2024-11-13,e56d9225,Books,32.78,20.84,North
+2024-04-26,400e211e,Groceries,24.07,26.08,West
+2024-07-13,c9cab4f4,Books,496.84,23.54,South
+2024-08-18,eb25e817,Home Appliances,480.24,26.82,South
+2025-03-13,5240abd1,Clothing,436.11,18.36,South
+2025-02-09,5c8b9171,Clothing,463.17,14.42,South
+2024-12-02,88d0b484,Books,136.69,25.22,North
+2025-02-11,9dfefbd6,Groceries,115.89,6.43,North
+2024-09-24,aa8eea4f,Electronics,429.14,12.33,West
+2024-06-24,05084fce,Clothing,165.62,9.99,East
+2024-04-11,04e3d3e8,Books,334.76,8.27,West
+2024-10-09,4adee110,Home Appliances,48.57,23.52,Central
+2024-05-06,db042dc6,Electronics,416.91,19.43,East
+2025-03-05,1d5dc2fe,Electronics,146.11,20.26,East
+2024-11-01,8a3f964b,Clothing,373.42,17.07,East
+2024-09-28,71c11c83,Groceries,458.35,22.28,East
+2024-05-04,e679d60c,Books,385.41,27.22,South
+2024-12-28,cf44c70c,Books,372.16,12.64,Central
+2024-03-23,5f37b9de,Books,448.59,28.95,West
+2024-07-16,f5d36fa9,Clothing,71.18,10.52,East
+2025-02-09,694f22ab,Home Appliances,459.07,8.47,North
+2024-08-08,7433ed67,Electronics,285.57,22.77,Central
+2024-05-08,e9fa358b,Groceries,134.5,17.47,Central
+2024-08-24,0c04072a,Clothing,159.69,15.64,Central
+2025-02-25,f76693ae,Groceries,283.55,7.04,Central
+2024-08-24,dc26638a,Clothing,131.19,18.76,North
+2024-06-20,6dc43e87,Groceries,64.07,15.01,West
+2024-11-21,3373fbfa,Books,10.02,25.32,North
+2024-07-06,8cc40ba8,Groceries,447.4,16.55,South
+2024-05-26,048139ec,Books,189.47,25.8,West
+2025-01-13,2ef7385c,Books,167.84,21.77,South
+2024-12-09,fa522d78,Clothing,26.5,23.83,West
+2024-11-14,0e501e3c,Groceries,365.63,27.93,East
+2024-08-13,981dea41,Groceries,215.85,12.78,South
+2024-06-10,fac17f7c,Home Appliances,293.81,9.98,West
+2024-09-15,e4d72e71,Clothing,336.18,11.5,Central
+2024-11-27,d6e4c58d,Clothing,109.57,21.48,East
+2025-02-14,15b342b2,Home Appliances,214.67,9.51,North
+2024-10-28,da39bfe2,Books,254.93,23.75,North
+2025-03-16,3810f0dc,Books,216.46,11.5,South
+2024-08-04,5d52f673,Home Appliances,66.48,21.55,West
+2024-03-19,a0acb5b9,Books,424.74,5.32,East
+2025-01-31,f52f92cc,Books,262.33,7.74,South
+2024-11-16,14fe9862,Electronics,34.31,16.59,South
+2025-02-08,32d37d37,Books,350.33,27.84,North
+2024-06-15,5f21b1dc,Home Appliances,439.14,23.32,Central
+2024-07-07,7e9de40d,Home Appliances,404.2,28.58,North
+2024-11-29,8890236f,Books,264.52,11.44,West
+2025-03-05,624cacbd,Books,130.32,21.67,North
+2025-02-24,bec7ea6d,Home Appliances,322.93,12.92,North
+2024-09-23,f7c021c4,Groceries,345.25,13.74,East
+2024-11-18,5759fa38,Home Appliances,169.95,27.38,West
+2024-11-22,69633849,Books,53.21,12.88,South
+2024-10-07,ffc861d7,Groceries,202.71,27.09,East
+2024-04-13,4fd5eb55,Books,344.99,16.52,West
+2024-11-02,6d667127,Clothing,440.49,8.41,West
+2024-09-10,98568c64,Clothing,151.39,21.29,South
+2025-01-18,8b193d59,Home Appliances,316.99,25.63,Central
+2024-09-02,82f84381,Books,416.54,29.81,East
+2025-03-16,db6d21e6,Electronics,383.59,19.69,Central
+2024-09-09,99b92d37,Books,183.86,22.03,South
+2025-02-23,b4fe11b1,Books,344.28,10.94,West
+2024-06-26,f37db3ff,Electronics,496.38,23.91,North
+2025-02-10,3f5cc2bb,Books,294.41,7.23,East
+2024-09-12,3ba3789d,Clothing,430.9,22.32,West
+2024-07-13,fd338e47,Groceries,462.83,29.71,East
+2024-04-07,ac4465bb,Clothing,346.83,9.67,East
