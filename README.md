@@ -1,9 +1,11 @@
  **Sales Performance Dashboard**
+ 
 *Project Objective*
 1.Customer Performance Analysis – Track and visualize sales trends & revenue.
 2️. Market vs. Sales Targets – Compare actual sales with targets to identify gaps.
 
 *Purpose of Sales Analytics*
+
 Enable businesses to monitor, evaluate, and optimize their sales performance using data-driven insights.
 
 Why Analyze Sales Data?
