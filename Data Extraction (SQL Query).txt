@@ -1,0 +1,3 @@
+SELECT OrderDate, CustomerID, ProductCategory, SalesAmount, ProfitMargin, Region 
+FROM SalesTransactions 
+WHERE OrderDate BETWEEN '2023-01-01' AND '2023-12-31';
